@@ -8,7 +8,7 @@ The model uses **text preprocessing**, **TF-IDF vectorization**, and **Multinomi
 
 ---
 
-##  Tech Stack / Libraries Used
+##   Libraries Used
 - **Python**
 - **pandas** – data loading and manipulation  
 - **numpy** – numerical operations  
@@ -55,4 +55,4 @@ The model uses **text preprocessing**, **TF-IDF vectorization**, and **Multinomi
 ##  How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Customer-Review-NaiveBayes-SentimentAnalysis.git
+   git clone https://github.com/NirmalanSK/Customer-Review-NaiveBayes-SentimentAnalysis.git
